@@ -8,6 +8,6 @@
 ### CARACTERISTIQUE
 | Marque        | Fiche         | Prix  |
 | ------------- |:-------------:| -----:|
-| Hilux TY      | right-aligned | 5 000 |
-| Tacoma T      | centered      |   200 |
-| PRADO TOYOTA  | are neat      |    50 |
+| Hilux TY      | 28 KILOMETRE  | 5 000 |
+| Tacoma T      | 10 000 K      |   200 |
+| PRADO TOYOTA  | 60 000 K      |    50 |
